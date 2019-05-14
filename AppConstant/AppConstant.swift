@@ -1,8 +1,8 @@
 //
 //  DeviceConstant.swift
 //  Created by Vicky Prajapati.
-//
-
+//  Vishvesh Lad
+ 
 import Foundation
 
 class AppConstant: NSObject {
